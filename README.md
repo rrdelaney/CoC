@@ -1,5 +1,5 @@
 # CoC
 
-A standard CoC to use on my projects
+A standard CoC to use on my projects.
 
-See CONTRIBUTING.md
+See [CODE_OF_CONDUCT.md](https://github.com/rrdelaney/CoC/blob/master/CODE_OF_CONDUCT.md).
